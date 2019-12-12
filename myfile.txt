@@ -2,9 +2,3 @@
 hi i am gokul.
 this is second line
 third line
-
-%%writefile mynewfile.txt
-
-hi i am gokul.
-this is second line
-third line
